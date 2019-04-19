@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/113 project-20161215T182405Z/113 project/ninja warrior.unity
+  isLoaded: 1
+  isActive: 1
